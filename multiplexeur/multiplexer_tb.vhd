@@ -6,9 +6,9 @@ end entity multiplexer_tb;
 
 architecture tb of multiplexer_tb is
     signal tb_sel : std_logic;
-    signal tb_data_0 : std_logic_vector(1 downto 0);
-    signal tb_data_1 : std_logic_vector(1 downto 0);
-    signal tb_data_out : std_logic_vector(1 downto 0);
+    signal tb_data_0 : std_logic_vector(3 downto 0);
+    signal tb_data_1 : std_logic_vector(3 downto 0);
+    signal tb_data_out : std_logic_vector(3 downto 0);
 begin
     uut : entity work.multiplexer
         generic map (
