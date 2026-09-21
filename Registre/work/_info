@@ -1,0 +1,90 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/moham/Downloads/1-tuto_modelsim/registre
+Efifo
+Z1 w1789981957
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z4 8fifo.vhd
+Z5 Ffifo.vhd
+l0
+L7 1
+VXlb=KF>RlhPHhim<4VVJ[3
+!s100 U5PV`NjBY0aoX6=18lYEN1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1789982558
+!i10b 1
+Z8 !s108 1789982557.000000
+Z9 !s90 -reportprogress|300|fifo.vhd|
+Z10 !s107 fifo.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+Z12 DEx4 work 4 fifo 0 22 Xlb=KF>RlhPHhim<4VVJ[3
+!i122 2
+l22
+L20 17
+V9_gC5CezGV;@ecSFmjama3
+!s100 f@]hfd=c8LlmYiV>hSFc?2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Efifo_tb
+Z13 w1789982400
+R2
+R3
+!i122 3
+R0
+Z14 8fifo_tb.vhd
+Z15 Ffifo_tb.vhd
+l0
+L4 1
+V1aBE5P4kNdgzaT4idL^6<0
+!s100 T>cb5^<BYZOhEZk2M@Gee0
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1789982558.000000
+Z17 !s90 -reportprogress|300|fifo_tb.vhd|
+Z18 !s107 fifo_tb.vhd|
+!i113 1
+R11
+Atb
+R12
+R2
+R3
+Z19 DEx4 work 7 fifo_tb 0 22 1aBE5P4kNdgzaT4idL^6<0
+!i122 3
+l16
+L7 59
+V1EZMz=KFoHMagV[4l`EIP2
+!s100 l;W`2<<ZDc7C<Kg:cV=d_0
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
