@@ -49,7 +49,7 @@ begin
         tb_en <= '1'; wait for 10 ns;   -- q = 0
 
         tb_d <= '1'; wait for 3 ns;
-        tb_rst_n <= '0'; wait for 4 ns; -- reset asynchrone en plein milieu d'une période
+        tb_rst_n <= '0'; wait for 4 ns; -- reset asynchrone, en plein milieu d'une période
         tb_rst_n <= '1'; wait for 10 ns;
 
         tb_done <= true;
