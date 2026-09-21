@@ -1,0 +1,90 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/moham/Downloads/1-tuto_modelsim/bascule D
+Edff
+Z1 w1789980326
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z4 8dff.vhd
+Z5 Fdff.vhd
+l0
+L4 1
+VcmaR9dk@8Sh99VzC0ZIWS3
+!s100 Yzi?d`a]5ioH?7CYCB]N50
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1789980330
+!i10b 1
+Z8 !s108 1789980330.000000
+Z9 !s90 -reportprogress|300|dff.vhd|
+Z10 !s107 dff.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+Z12 DEx4 work 3 dff 0 22 cmaR9dk@8Sh99VzC0ZIWS3
+!i122 1
+l16
+L14 15
+VJMkQz=G:gb2fk_]cYXa>d0
+!s100 O9kTO@LEIRTQK@ND78SBF1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Edff_tb
+Z13 w1789980070
+R2
+R3
+!i122 2
+R0
+Z14 8dff_tb.vhd
+Z15 Fdff_tb.vhd
+l0
+L4 1
+V<1W^:gLIJ2aziOMgd3[l<1
+!s100 =giZ@?Lgd^alYMMeF564]3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|dff_tb.vhd|
+!s107 dff_tb.vhd|
+!i113 1
+R11
+Atb
+R12
+R2
+R3
+DEx4 work 6 dff_tb 0 22 <1W^:gLIJ2aziOMgd3[l<1
+!i122 2
+l15
+L7 52
+V9RIS56N?10cDVcI:hJ;]93
+!s100 ef@jmA=`aSiP_V;k50P?G3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+Z17 !s107 dff_tb.vhd|
+!i113 1
+R11
