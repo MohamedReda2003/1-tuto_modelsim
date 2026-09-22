@@ -10,10 +10,10 @@ z2
 cModel Technology
 Z0 dC:/Users/moham/Downloads/1-tuto_modelsim/controleur HDMI
 Ehdmi_controler
-Z1 w1790069675
+Z1 w1790070925
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 11
+!i122 15
 R0
 Z4 8hdmi_controler.vhd
 Z5 Fhdmi_controler.vhd
@@ -23,9 +23,9 @@ V5;S@6S62:Q<Mgl^UBIKAI0
 !s100 jZNeQO3X?gmVVgK4He<GN2
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1790070692
+Z7 !s110 1790070952
 !i10b 1
-Z8 !s108 1790070692.000000
+Z8 !s108 1790070952.000000
 Z9 !s90 -reportprogress|300|hdmi_controler.vhd|
 Z10 !s107 hdmi_controler.vhd|
 !i113 1
@@ -34,7 +34,7 @@ Artl
 R2
 R3
 Z12 DEx4 work 14 hdmi_controler 0 22 5;S@6S62:Q<Mgl^UBIKAI0
-!i122 11
+!i122 15
 l40
 L32 36
 Vj@PW<^0i95_`E:GD4C1183
@@ -52,7 +52,7 @@ Ehdmi_controler_tb
 Z13 w1790070454
 R2
 R3
-!i122 12
+!i122 16
 R0
 Z14 8hdmi_controler_tb.vhd
 Z15 Fhdmi_controler_tb.vhd
@@ -62,29 +62,29 @@ V:DioTbf8nYYJTRYB5gJ?<3
 !s100 02B43mGHjA?h6:MFYlSi?3
 R6
 32
-R7
+Z16 !s110 1790070953
 !i10b 1
-R8
-Z16 !s90 -reportprogress|300|hdmi_controler_tb.vhd|
-Z17 !s107 hdmi_controler_tb.vhd|
+Z17 !s108 1790070953.000000
+Z18 !s90 -reportprogress|300|hdmi_controler_tb.vhd|
+Z19 !s107 hdmi_controler_tb.vhd|
 !i113 1
 R11
 Atb
 R12
 R2
 R3
-Z18 DEx4 work 17 hdmi_controler_tb 0 22 :DioTbf8nYYJTRYB5gJ?<3
-!i122 12
+Z20 DEx4 work 17 hdmi_controler_tb 0 22 :DioTbf8nYYJTRYB5gJ?<3
+!i122 16
 l31
-Z19 L8 98
-Z20 Vh2n8]Cm<AdLbe>1W_C;2j3
-Z21 !s100 =Q<V=bh_T9Z`bdoQndc5?2
+Z21 L8 98
+Z22 Vh2n8]Cm<AdLbe>1W_C;2j3
+Z23 !s100 =Q<V=bh_T9Z`bdoQndc5?2
 R6
 32
-R7
-!i10b 1
-R8
 R16
+!i10b 1
 R17
+R18
+R19
 !i113 1
 R11
